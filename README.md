@@ -1,6 +1,6 @@
-# Precog Assignment Task 2 - Twitter Analysis
+# Twitter Trends Analysis
 
-###### This task asked us to collect 10K or more tweets on a top trending hashtag in Hyderabad or New Delhi.
+###### Collection of 10K tweets on a top trending hashtag in Hyderabad
 ##### Notebook File - 'precog_twitter.ipynb'
 ##### PDF - 'Twitter_Analysis.pdf' (For most of the plots)
 ###### Please run the local host app to see interacrive graphs (see How to Run)
